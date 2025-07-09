@@ -87,7 +87,11 @@ Then open your browser at: `http://localhost:8501`
 bash
 
 `.
-├── app.py # Streamlit frontend ├── summarizer.py # HuggingFace T5 summarizer ├── transcriber.py # Whisper audio transcription ├── requirements.txt # Python dependencies └── README.md # Project documentation` 
+├── app.py # Streamlit frontend 
+├── summarizer.py # HuggingFace T5 summarizer 
+├── transcriber.py # Whisper audio transcription 
+├── requirements.txt # Python dependencies 
+└── README.md # Project documentation` 
 
 * * *
 
